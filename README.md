@@ -1,3 +1,3 @@
 # GitRelated
 
-![image](https://user-images.githubusercontent.com/61017530/204444919-703181f9-044e-4be9-a3d2-c46c0347fad2.png)
+![image](https://user-images.githubusercontent.com/61017530/204445074-7bc97a94-9dd9-418d-b405-05e53070f2db.png)
