@@ -109,6 +109,7 @@ git push origin --force: force push
 The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
 
 git merge branch_name
+
 git merge --squash branch_name: squash all commits in branch_name to one commit.
 
 
