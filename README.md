@@ -11,6 +11,7 @@ It creates a new Git repository. It can be used to convert an existing, unversio
 ## 2. git pull/clone
 
 clone: copying the remote server repository to your local machine. 
+
 pull: get new changes other have added to your local machine.
 
 pull = clone + merge。
@@ -76,8 +77,11 @@ git reset file_name
 ## 9. git lfs
 
 git lfs install：initialize git lfs.
+
 git lfs track：track files.
+
 git lfs ls-files：list all tracked files.
+
 git lfs pull --include "a.dat"：only download certain lfs file.
 
 
@@ -102,6 +106,7 @@ The git push command is used to upload local repository content to a remote repo
 git push origin local_branch_name:remote_branch_name
 
 git push -f: force push
+
 git push origin --force: force push
 
 ## 13. git merge 
@@ -124,4 +129,5 @@ git rebase -i commit_hash
 Fetch the remote branch and override the local branch.
 
 git fetch --all
+
 git reset --hard origin/XXXX_XXXX
