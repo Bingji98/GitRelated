@@ -120,4 +120,8 @@ It changes the base of the developer's branch from one commit to another.
 git rebase -i commit_hash
 
 
-## 15. 
+## 15. git fetch
+Fetch the remote branch and override the local branch.
+
+git fetch --all
+git reset --hard origin/XXXX_XXXX
